@@ -1,2 +1,2 @@
-# # Data-Vis
+# Data-Vis
 Spring 2017
